@@ -5,8 +5,8 @@ SA-MP DINI with Discord interaction!
 Download all and put them to your server files
 
 Download this include and put to your `pawno/include`
-[discord-cmd] (https://github.com/AkshayMohan/pawn-discord-cmd) 
-[samp-discord-connector](https://github.com/maddinat0r/samp-discord-connector) plugin.
+1. [discord-cmd] (https://github.com/AkshayMohan/pawn-discord-cmd) 
+2. [samp-discord-connector] (https://github.com/maddinat0r/samp-discord-connector)
 
 ## Configuration
 
